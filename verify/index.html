@@ -215,7 +215,7 @@
       <div class="input-group-prepend">
         <label class="input-group-text" for="txtQuery">Search Terms</label>
       </div>
-      <input type="text" id="txtQuery" v-model="search" class="form-control" placeholder="whatever you want to search for...">
+      <input type="text" id="txtQuery" v-model="search" class="form-control" placeholder="Please enter the certificate number or name">
     </div>
 
     <div v-for="(link, linkIndex) in results" v-bind:style="linkIndex + 1 < results.length ? 'margin-bottom: 1em;' : ''">
