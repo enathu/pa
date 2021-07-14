@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "pebbles.academy",
+  "Id": "3cb99416-8457-45f2-ad04-54f13a1b46d7"
+}
